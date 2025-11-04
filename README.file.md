@@ -38,6 +38,4 @@ You should see:
 - Use Docker Compose for multi-container setup.  
 - Deploy on AWS or Heroku.
 
-## 🧾 Author
-Created by **Diya** ✨  
-For educational & portfolio purposes.
+
